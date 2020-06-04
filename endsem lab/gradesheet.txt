@@ -5,5 +5,4 @@ Roll no   Name   Grade
 3         Peter    F
 4         Tony     A
 5         James    A
-6         Frank    A
-7         Ant      F
+
